@@ -1,6 +1,6 @@
 # Abount Me
 
-I am developing a game engine. My favorite programming language is C.
+[I am developing a game engine](https://github.com/dolphilia/raia). My favorite programming language is C / C++.
 
 ## Programming Language
 
